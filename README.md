@@ -1,4 +1,4 @@
-# Pranali-shendekar
+## Pranali-Shendekar
 # Capstone Spring 2023
 
 This capstone project aimed to develop a software tool to manage and process ultrasound imaging data to train deep-learning models to predict the presence of cancerous lesions in breast tissue. The project involved collecting, managing, updating, and summarizing study and annotation data in batches as they become available. The study data included ultrasound images, patient information, biopsy results, BI-RADS scores, and metadata about the images and ultrasound equipment. In addition, the annotation data had additional labels and visual outlines of the lesions, which were provided retrospectively by trained radiologists.
